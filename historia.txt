@@ -3,3 +3,5 @@ i was born in Ecuador
 i have 29 years old
 i like potato chips
 and i love to eat meat 
+
+height : 165cm
